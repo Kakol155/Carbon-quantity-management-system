@@ -9,6 +9,8 @@ Coal quantity management system.
 
 ## Technologies
 * C
+* Include stdio.h
+* Include stdlib.h
 
 ## Project status
 - Ready
